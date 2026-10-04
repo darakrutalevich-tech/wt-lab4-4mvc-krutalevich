@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\WT\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC9BF30F-7B90-4C10-BF9B-428F87709036}|wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich.csproj|c:\\users\\asus\\onedrive\\desktop\\wt\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC9BF30F-7B90-4C10-BF9B-428F87709036}|wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich.csproj|solutionrelative:wt-lab4-4mvc-krutalevich\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC9BF30F-7B90-4C10-BF9B-428F87709036}|wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich.csproj|c:\\users\\asus\\onedrive\\desktop\\wt\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\views\\flight\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC9BF30F-7B90-4C10-BF9B-428F87709036}|wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich.csproj|solutionrelative:wt-lab4-4mvc-krutalevich\\views\\flight\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC9BF30F-7B90-4C10-BF9B-428F87709036}|wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich.csproj|c:\\users\\asus\\onedrive\\desktop\\wt\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\views\\flight\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC9BF30F-7B90-4C10-BF9B-428F87709036}|wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich.csproj|solutionrelative:wt-lab4-4mvc-krutalevich\\views\\flight\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC9BF30F-7B90-4C10-BF9B-428F87709036}|wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich.csproj|c:\\users\\asus\\onedrive\\desktop\\wt\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC9BF30F-7B90-4C10-BF9B-428F87709036}|wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich.csproj|solutionrelative:wt-lab4-4mvc-krutalevich\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC9BF30F-7B90-4C10-BF9B-428F87709036}|wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich.csproj|c:\\users\\asus\\onedrive\\desktop\\wt\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CC9BF30F-7B90-4C10-BF9B-428F87709036}|wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich.csproj|solutionrelative:wt-lab4-4mvc-krutalevich\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,51 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\WT\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\Program.cs",
-              "RelativeDocumentMoniker": "wt-lab4-4mvc-krutalevich\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\WT\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\Program.cs",
-              "RelativeToolTip": "wt-lab4-4mvc-krutalevich\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T12:57:02.863Z",
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\WT\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\Dockerfile",
+              "RelativeDocumentMoniker": "wt-lab4-4mvc-krutalevich\\Dockerfile",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\WT\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\Dockerfile",
+              "RelativeToolTip": "wt-lab4-4mvc-krutalevich\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-04T13:13:28.252Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\WT\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\Views\\Flight\\Delete.cshtml",
-              "RelativeDocumentMoniker": "wt-lab4-4mvc-krutalevich\\Views\\Flight\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\WT\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\Views\\Flight\\Delete.cshtml",
-              "RelativeToolTip": "wt-lab4-4mvc-krutalevich\\Views\\Flight\\Delete.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAuwDEAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-04T12:55:35.349Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\WT\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\Views\\Flight\\Index.cshtml",
-              "RelativeDocumentMoniker": "wt-lab4-4mvc-krutalevich\\Views\\Flight\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\WT\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\Views\\Flight\\Index.cshtml",
-              "RelativeToolTip": "wt-lab4-4mvc-krutalevich\\Views\\Flight\\Index.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAEEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-04T12:51:53.309Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FlightController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\WT\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\Controllers\\FlightController.cs",
-              "RelativeDocumentMoniker": "wt-lab4-4mvc-krutalevich\\Controllers\\FlightController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\WT\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\Controllers\\FlightController.cs",
-              "RelativeToolTip": "wt-lab4-4mvc-krutalevich\\Controllers\\FlightController.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAqwFsAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T12:38:20.607Z"
             }
           ]
         }
