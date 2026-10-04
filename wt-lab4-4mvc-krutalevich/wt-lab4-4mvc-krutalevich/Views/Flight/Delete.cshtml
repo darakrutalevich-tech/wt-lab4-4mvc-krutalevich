@@ -1,0 +1,50 @@
+﻿@model wt_lab4_4mvc_krutalevich.Models.Flight
+
+@{
+    ViewData["Title"] = "Удалить рейс";
+}
+
+<div class="container py-4">
+    <div class="row justify-content-center">
+        <div class="col-12 col-md-8 col-lg-6">
+
+            <div class="card shadow-sm rounded-4 border-danger">
+                <div class="card-header bg-danger text-white">
+                    <h2 class="mb-0 fs-4">Удаление рейса</h2>
+                </div>
+                <div class="card-body">
+
+                    <p class="fs-5">
+                        Вы уверены, что хотите удалить рейс
+                        <strong>@Model.FlightNumber</strong>
+                        (@Model.Departure → @Model.Arrival)?
+                    </p>
+
+                    <dl class="row">
+                        <dt class="col-sm-4">ID</dt>
+                        <dd class="col-sm-8">@Model.Id</dd>
+
+                        <dt class="col-sm-4">Цена</dt>
+                        <dd class="col-sm-8">@Model.Price.ToString("F2") руб.</dd>
+
+                        <dt class="col-sm-4">Доступен</dt>
+                        <dd class="col-sm-8">@(Model.IsAvailable ? "Да" : "Нет")</dd>
+                    </dl>
+
+                    <form asp-action="Delete" method="post">
+                        <input asp-for="Id" type="hidden" />
+                        <div class="d-flex justify-content-between mt-3">
+                            <a asp-action="Index" class="btn btn-secondary">
+                                ← Отмена
+                            </a>
+                            <button type="submit" class="btn btn-danger">
+                                Удалить
+                            </button>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
