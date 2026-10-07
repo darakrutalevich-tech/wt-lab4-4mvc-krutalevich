@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("wt-lab4-4mvc-krutalevich")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da81e543bcb4ed71c43cbeb25ef5e70682a03095")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a1721917f7c1a5b4e28001bffa9a7027177fca3")]
 [assembly: System.Reflection.AssemblyProductAttribute("wt-lab4-4mvc-krutalevich")]
 [assembly: System.Reflection.AssemblyTitleAttribute("wt-lab4-4mvc-krutalevich")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

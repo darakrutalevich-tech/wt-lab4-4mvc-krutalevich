@@ -4,7 +4,6 @@ WORKDIR /src
 COPY *.csproj ./
 RUN dotnet restore
 
-# копируем весь проект и публикуем
 COPY . ./
 RUN dotnet publish -c Release -o /app/publish /p:UseAppHost=false
 

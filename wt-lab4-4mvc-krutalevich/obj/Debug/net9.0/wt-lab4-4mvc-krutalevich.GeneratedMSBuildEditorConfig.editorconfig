@@ -9,61 +9,109 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = wt_lab4_4mvc_krutalevich
 build_property.RootNamespace = wt_lab4_4mvc_krutalevich
-build_property.ProjectDir = C:\Users\ASUS\OneDrive\Desktop\WT\wt-lab4-4mvc-krutalevich\wt-lab4-4mvc-krutalevich\wt-lab4-4mvc-krutalevich\
+build_property.ProjectDir = C:\Users\ASUS\OneDrive\Desktop\WT\wt-lab4-4mvc-krutalevich\wt-lab4-4mvc-krutalevich\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ASUS\OneDrive\Desktop\WT\wt-lab4-4mvc-krutalevich\wt-lab4-4mvc-krutalevich\wt-lab4-4mvc-krutalevich
+build_property.MSBuildProjectDirectory = C:\Users\ASUS\OneDrive\Desktop\WT\wt-lab4-4mvc-krutalevich\wt-lab4-4mvc-krutalevich
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Flight/Create.cshtml]
+[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Flight/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Flight/Delete.cshtml]
+[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Flight/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0XERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Flight/Details.cshtml]
+[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Flight/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0XERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Flight/Edit.cshtml]
+[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Flight/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0XEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Flight/Index.cshtml]
+[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Flight/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Home/Index.cshtml]
+[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Home/Privacy.cshtml]
+[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Shared/Error.cshtml]
+[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/_ViewImports.cshtml]
+[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/_ViewStart.cshtml]
+[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Shared/_Layout.cshtml]
+[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Flight/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3QtbGFiNC00bXZjLWtydXRhbGV2aWNoXFZpZXdzXEZsaWdodFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Flight/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3QtbGFiNC00bXZjLWtydXRhbGV2aWNoXFZpZXdzXEZsaWdodFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Flight/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3QtbGFiNC00bXZjLWtydXRhbGV2aWNoXFZpZXdzXEZsaWdodFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Flight/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3QtbGFiNC00bXZjLWtydXRhbGV2aWNoXFZpZXdzXEZsaWdodFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Flight/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3QtbGFiNC00bXZjLWtydXRhbGV2aWNoXFZpZXdzXEZsaWdodFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3QtbGFiNC00bXZjLWtydXRhbGV2aWNoXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3QtbGFiNC00bXZjLWtydXRhbGV2aWNoXFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3QtbGFiNC00bXZjLWtydXRhbGV2aWNoXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3QtbGFiNC00bXZjLWtydXRhbGV2aWNoXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3QtbGFiNC00bXZjLWtydXRhbGV2aWNoXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3QtbGFiNC00bXZjLWtydXRhbGV2aWNoXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-p1sb1s55d4
+
+[C:/Users/ASUS/OneDrive/Desktop/WT/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/wt-lab4-4mvc-krutalevich/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3QtbGFiNC00bXZjLWtydXRhbGV2aWNoXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-3v3uz1g9j5
