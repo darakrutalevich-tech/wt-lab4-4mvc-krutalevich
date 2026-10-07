@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{CC9BF30F-7B90-4C10-BF9B-428F87709036}|wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich.csproj|c:\\users\\asus\\onedrive\\desktop\\wt\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC9BF30F-7B90-4C10-BF9B-428F87709036}|wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich.csproj|solutionrelative:wt-lab4-4mvc-krutalevich\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9BF30F-7B90-4C10-BF9B-428F87709036}|wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich.csproj|c:\\users\\asus\\onedrive\\desktop\\wt\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC9BF30F-7B90-4C10-BF9B-428F87709036}|wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich.csproj|solutionrelative:wt-lab4-4mvc-krutalevich\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9BF30F-7B90-4C10-BF9B-428F87709036}|wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich.csproj|c:\\users\\asus\\onedrive\\desktop\\wt\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CC9BF30F-7B90-4C10-BF9B-428F87709036}|wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich.csproj|solutionrelative:wt-lab4-4mvc-krutalevich\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\WT\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "wt-lab4-4mvc-krutalevich\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\WT\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "wt-lab4-4mvc-krutalevich\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T13:44:45.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\WT\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\Dockerfile",
+              "RelativeDocumentMoniker": "wt-lab4-4mvc-krutalevich\\Dockerfile",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\WT\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\Dockerfile",
+              "RelativeToolTip": "wt-lab4-4mvc-krutalevich\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-07T13:19:57.226Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "wt-lab4-4mvc-krutalevich\\Program.cs",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\WT\\wt-lab4-4mvc-krutalevich\\wt-lab4-4mvc-krutalevich\\Program.cs",
               "RelativeToolTip": "wt-lab4-4mvc-krutalevich\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-04T13:36:06.071Z",
               "EditorCaption": ""

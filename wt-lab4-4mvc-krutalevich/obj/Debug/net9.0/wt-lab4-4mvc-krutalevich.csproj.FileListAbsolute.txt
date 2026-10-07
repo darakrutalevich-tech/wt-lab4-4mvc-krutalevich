@@ -95,3 +95,15 @@ C:\Users\ASUS\OneDrive\Desktop\WT\lab4\wt-lab4-4mvc-krutalevich\wt-lab4-4mvc-kru
 C:\Users\ASUS\OneDrive\Desktop\WT\lab4\wt-lab4-4mvc-krutalevich\wt-lab4-4mvc-krutalevich\obj\Debug\net9.0\wt-lab4-4mvc-krutalevich.pdb
 C:\Users\ASUS\OneDrive\Desktop\WT\lab4\wt-lab4-4mvc-krutalevich\wt-lab4-4mvc-krutalevich\obj\Debug\net9.0\wt-lab4-4mvc-krutalevich.genruntimeconfig.cache
 C:\Users\ASUS\OneDrive\Desktop\WT\lab4\wt-lab4-4mvc-krutalevich\wt-lab4-4mvc-krutalevich\obj\Debug\net9.0\ref\wt-lab4-4mvc-krutalevich.dll
+C:\Users\ASUS\OneDrive\Desktop\WT\wt-lab4-4mvc-krutalevich\wt-lab4-4mvc-krutalevich\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\ASUS\OneDrive\Desktop\WT\wt-lab4-4mvc-krutalevich\wt-lab4-4mvc-krutalevich\obj\Debug\net9.0\wt-lab4-4mvc-krutalevich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\WT\wt-lab4-4mvc-krutalevich\wt-lab4-4mvc-krutalevich\obj\Debug\net9.0\wt-lab4-4mvc-krutalevich.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\WT\wt-lab4-4mvc-krutalevich\wt-lab4-4mvc-krutalevich\obj\Debug\net9.0\wt-lab4-4mvc-krutalevich.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\WT\wt-lab4-4mvc-krutalevich\wt-lab4-4mvc-krutalevich\obj\Debug\net9.0\wt-lab4-4mvc-krutalevich.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\WT\wt-lab4-4mvc-krutalevich\wt-lab4-4mvc-krutalevich\obj\Debug\net9.0\wt-lab4-4mvc-krutalevich.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Desktop\WT\wt-lab4-4mvc-krutalevich\wt-lab4-4mvc-krutalevich\obj\Debug\net9.0\wt-lab4-4mvc-krutalevich.RazorAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Desktop\WT\wt-lab4-4mvc-krutalevich\wt-lab4-4mvc-krutalevich\obj\Debug\net9.0\wt-lab4-4mvc-krutalevich.RazorAssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\WT\wt-lab4-4mvc-krutalevich\wt-lab4-4mvc-krutalevich\obj\Debug\net9.0\wt-lab4-4mvc-krutalevich.sourcelink.json
+C:\Users\ASUS\OneDrive\Desktop\WT\wt-lab4-4mvc-krutalevich\wt-lab4-4mvc-krutalevich\obj\Debug\net9.0\wt-lab4-4mvc-krutalevich.dll
+C:\Users\ASUS\OneDrive\Desktop\WT\wt-lab4-4mvc-krutalevich\wt-lab4-4mvc-krutalevich\obj\Debug\net9.0\refint\wt-lab4-4mvc-krutalevich.dll
+C:\Users\ASUS\OneDrive\Desktop\WT\wt-lab4-4mvc-krutalevich\wt-lab4-4mvc-krutalevich\obj\Debug\net9.0\wt-lab4-4mvc-krutalevich.pdb
