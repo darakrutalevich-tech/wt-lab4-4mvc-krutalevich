@@ -16,3 +16,4 @@ https://github.com/darakrutalevich-tech/wt-lab4-4mvc-krutalevich
 
 \## Опубликованное приложение
 
+https://wt-lab4-4mvc-krutalevich-6.onrender.com/Flight
